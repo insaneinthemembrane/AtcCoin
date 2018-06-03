@@ -10,8 +10,14 @@ This means "**setgenerate**" is left untouched which will be flagged as a virus.
 
 To connect to the network make an AtcCoin.conf. See the sample [here](https://github.com/insaneinthemembrane/AtcCoin/blob/master/AtcCoin.conf). Start AtcCoin-qt, the quit it. Search for %appdata% on your computer. There will be a folder called AtcCoin. Simply copy the AtcCoin.conf there. Then restart the qt.
 
+# Download wallet
+
 **The wallet is available [here](https://github.com/insaneinthemembrane/AtcCoin/blob/master/release/atccoin-qt.zip)**.
 
+
+# AtcCoinon Nova
+
+AtcCoin is being delisted from the new Nova Exchange, but until then it can be found trading [here](https://novaexchange.com/market/BTC_ATCC/).
 
 # AtcCoin is a pile of crap
 
