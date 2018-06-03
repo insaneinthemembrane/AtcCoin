@@ -15,7 +15,7 @@ To connect to the network make an AtcCoin.conf. See the sample [here](https://gi
 **The wallet is available [here](https://github.com/insaneinthemembrane/AtcCoin/blob/master/release/atccoin-qt.zip)**.
 
 
-# AtcCoinon Nova
+# AtcCoin on Nova
 
 AtcCoin is being delisted from the new Nova Exchange, but until then it can be found trading [here](https://novaexchange.com/market/BTC_ATCC/).
 
